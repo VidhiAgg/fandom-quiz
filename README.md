@@ -3,10 +3,10 @@
 ## Are you a big fan of John snow?? Lets chaeck that by giving quiz!! 
 
 #### About quiz 
-*I t's a quiz on John Snow, lead character in most famous series Games Of Thrones (GOT).
+* It's a quiz on John Snow, lead character in most famous series Games Of Thrones (GOT).
 
 
-#### This is in CLI quiz.
+#### This is a Command line quiz (CLI) quiz.
 
 ## Tech Stack used : 
 * NodeJS -> NodeJS is a backend platform to run Javascript code in server side.
