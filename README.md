@@ -1,9 +1,9 @@
 # fandom-quiz - Quiz App with NodeJS.
 
-##Are you a big fan of John snow?? Lets chaeck that by giving quiz!! 
+## Are you a big fan of John snow?? Lets chaeck that by giving quiz!! 
 
-####About quiz 
-*It's a quiz on John Snow, lead character in most famous series Games Of Thrones (GOT).
+#### About quiz 
+*I t's a quiz on John Snow, lead character in most famous series Games Of Thrones (GOT).
 
 
 #### This is in CLI quiz.
